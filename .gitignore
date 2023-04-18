@@ -1,0 +1,9 @@
+/.vs
+/src/Application/bin
+/src/Application/obj
+/src/Domain/bin
+/src/Domain/obj
+/src/Infrastructure/bin
+/src/Infrastructure/obj
+/src/WebUI/bin
+/src/WebUI/obj
